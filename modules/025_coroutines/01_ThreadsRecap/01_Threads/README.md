@@ -31,4 +31,4 @@ fetchNetworkData(
 
 Поэтому необходимо понимать различие потоков и понимать суть работы потоков.
 
-<button onclick="./02_CallbackHell">Далее</button>
+**[Далее](./02_CoroutinesIntro)**
